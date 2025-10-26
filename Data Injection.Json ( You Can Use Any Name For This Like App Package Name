@@ -2,7 +2,8 @@
   "data": {
     "servers": {
       "server1": "https://github.com/hackertmm-8766/Data-Injection-Testing-/raw/refs/heads/main/data.zip",
-      "server2": "Your Data Zip Url "
+      "server2": "Your Data Zip Url ",
+ "server3": "https://github.com/hackertmm-8766/Data-Injection-Testing-/raw/refs/heads/main/data.zip",
     }
   }
 }
