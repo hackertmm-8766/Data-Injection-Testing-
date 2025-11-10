@@ -1,5 +1,5 @@
 {
-  "mainserver": 1,
+  "mainserver": 2,
   "servers": [
     "https://github.com/hackertmm-8766/Data-Injection-Testing-/raw/refs/heads/main/data.zip",
     "https://server2.com/data.zip",
