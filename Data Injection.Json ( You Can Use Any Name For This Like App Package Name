@@ -1,7 +1,7 @@
 {
   "mainserver": 2,
   "servers": [
-    "https://server2.com/data.zip",
+    "https://server.com/data.zip",
     "https://server2.com/data.zip",
     "https://server3.com/data.zip"
   ]
