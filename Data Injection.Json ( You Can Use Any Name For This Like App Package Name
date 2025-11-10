@@ -1,7 +1,7 @@
 {
-  "mainserver": 2,
+  "mainserver": 1,
   "servers": [
-    "https://server.com/data.zip",
+    "https://github.com/hackertmm-8766/APP-Data/raw/refs/heads/main/in.mohalla.quicktv.zip",
     "https://server2.com/data.zip",
     "https://server3.com/data.zip"
   ]
