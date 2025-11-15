@@ -1,8 +1,8 @@
-{
-  "mainserver": 1,
-  "servers": [
-    "https://github.com/hackertmm-8766/APP-Data/raw/refs/heads/main/in.mohalla.quicktv.zip",
-    "https://server2.com/data.zip",
-    "https://server3.com/data.zip"
-  ]
+  {
+  "data": {
+    "servers": {
+      "server1": "https://github.com/hackertmm-8766/APP-Data/raw/refs/heads/main/in.mohalla.quicktv.zip,
+      "server2": "Your Data Zip Url "
+    }
+  }
 }
